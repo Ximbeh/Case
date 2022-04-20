@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif
+
+}
+
+header{
+        background-color: #4b0082;
+        padding: 18px;
+        font-size:50px;
+}
+
+header > h2{
+    color: #f092dd;
+
+}
+
+footer{
+padding: 15px;
+}
+
+footer > ul{
+    color:#4b0082 ;
+
+}
+
+.container{
+    background-color: #ffaff0; 
+    border: 2px solid;
+    margin-top: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+    font-weight: bold;
+    color: #4b0082 ;
+   
+}
+
+.div-produtos{
+    background-color: #6f4091;
+    padding: 20px; 
+    margin-top: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+    font-weight: bold;
+    color: #ffaff0 ;
+
+
+}
